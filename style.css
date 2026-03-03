@@ -21,7 +21,6 @@ body {
 
 .apresentação .linksprofissionais {
     display: flex;
-    flex-direction: column;
     justify-content: left;
     margin-top: 20px;
 }
@@ -35,7 +34,7 @@ body {
 .experiencia .experiencia1 li {
     display: flex;
     justify-content: left;
-    margin-top: 5px;
+    margin-top: 8px;
 }
 
 .perfil {
